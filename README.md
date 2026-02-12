@@ -14,15 +14,15 @@ Design a modern SQL Server–based data warehouse to consolidate sales data and 
 
 ##**Specifications**
 
-Data Sources: ERP and CRM data provided as CSV files
+**Data Sources**: ERP and CRM data provided as CSV files
 
-Data Quality: Data cleansing and validation before analysis
+**Data Quality**: Data cleansing and validation before analysis
 
-Integration: Unified, analytics-friendly data model
+**Integration**: Unified, analytics-friendly data model
 
-Scope: Latest data only (no historization)
+**Scope**: Latest data only (no historization)
 
-Documentation: Clear and business-friendly data model documentation
+**Documentation**: Clear and business-friendly data model documentation
 
 📊 **BI: Analytics & Reporting (Data Analytics)**
 
@@ -30,11 +30,11 @@ Documentation: Clear and business-friendly data model documentation
 
 Create SQL-based analytics to generate insights into:
 
-Customer Behavior
+**Customer Behavior**
 
-Product Performance
+**Product Performance**
 
-Sales Trends
+**Sales Trends**
 
 --These insights help stakeholders make data-driven decisions.
 
