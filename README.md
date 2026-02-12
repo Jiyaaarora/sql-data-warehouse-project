@@ -39,7 +39,9 @@ Sales Trends
 --These insights help stakeholders make data-driven decisions.
 
 📜 **License**
+--
 This project is licensed under the MIT License. Free to use, modify, and share with proper attribution.
 
 👩‍💻 **About Me**
+--
 Hi! I’m Jiya Arora, a Data Analyst who is passionate about turning data into insights.
