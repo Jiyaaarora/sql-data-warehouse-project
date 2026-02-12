@@ -7,11 +7,10 @@ This portfolio project showcases an end-to-end data warehousing and analytics so
 🚀 **Project Requirements**
 --
 🏗️ **Building the Data Warehouse (Data Engineering)**
-
+--
 ##**Objective**
 
 Design a modern SQL Server–based data warehouse to consolidate sales data and support analytical reporting.
---
 
 ##**Specifications**
 
@@ -24,10 +23,10 @@ Design a modern SQL Server–based data warehouse to consolidate sales data and 
 **Scope**: Latest data only (no historization)
 
 **Documentation**: Clear and business-friendly data model documentation
---
+
 
 📊 **BI: Analytics & Reporting (Data Analytics)**
-
+--
 ##**Objective**
 
 Create SQL-based analytics to generate insights into:
@@ -37,7 +36,6 @@ Create SQL-based analytics to generate insights into:
 **Product Performance**
 
 **Sales Trends**
---
 
 These insights help stakeholders make data-driven decisions.
 
