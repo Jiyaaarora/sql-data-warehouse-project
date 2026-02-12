@@ -37,7 +37,7 @@ Product Performance
 Sales Trends
 
 --These insights help stakeholders make data-driven decisions.
-32
+
 📜 **License**
 This project is licensed under the MIT License. Free to use, modify, and share with proper attribution.
 
