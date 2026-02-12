@@ -13,6 +13,7 @@ This portfolio project showcases an end-to-end data warehousing and analytics so
 Design a modern SQL Server–based data warehouse to consolidate sales data and support analytical reporting.
 
 ##**Specifications**
+
 Data Sources: ERP and CRM data provided as CSV files
 
 Data Quality: Data cleansing and validation before analysis
