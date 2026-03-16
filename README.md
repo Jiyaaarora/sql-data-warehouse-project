@@ -48,4 +48,3 @@ This project is licensed under the MIT License. Free to use, modify, and share w
 Hi, I'm Jiya Arora, an aspiring Data Analyst passionate about working with data and building insights using tools like SQL and Power BI.
 I enjoy analyzing datasets, discovering patterns, and creating dashboards that help in better decision-making.
 
-Currently, I am building projects in SQL, Data Analysis, and Data Visualization to strengthen my data analytics portfolio.
